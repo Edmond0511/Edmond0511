@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Edmond</h1>
 <h3 align="center"> I'm a Computer Engineering Student at the University of Waterloo</h3>
 
-- 🌱 I’m currently learning **typescript, restfulapis, machine learning**
-
 - 👨‍💻 All of my projects are available at [eyang.dev](eyang.dev)
 
 - ⚡ Fun fact **i own an obese corgi**
