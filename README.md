@@ -3,7 +3,7 @@
 
 - 🌱 interested in **machine learning**
 
-- 👨‍💻 all of my projects are available at [eyang.dev](eyang.dev)
+- 👨‍💻 all of my projects are available at https://eyang.dev/
 
 - ⚡ fun fact **i own an obese corgi**
 
