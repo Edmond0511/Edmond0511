@@ -1,11 +1,15 @@
-<h1 align="center">Hola 👋, I'm Edmond</h1>
+<h1 align="center">Hola, I'm Edmond</h1>
 <h3 align="center"> I'm a Computer Engineering Student at the University of Waterloo</h3>
 
-- 🌱 interested in **machine learning**
+- currently working at **Generis** as an **IT Coordinator**
 
-- 👨‍💻 all of my projects are available at https://eyang.dev/
+- interested in **machine learning**
 
-- ⚡ fun fact **i own an obese corgi**
+- currently learning **SQL** and **PHP**
+
+- all of my projects are available at https://eyang.dev/
+
+- fun fact **i have an obese corgi**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
