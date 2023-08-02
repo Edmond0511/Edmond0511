@@ -1,12 +1,6 @@
 <h1 align="center">Hola, I'm Edmond</h1>
 <h3 align="center"> I'm a Computer Engineering Student at the University of Waterloo</h3>
 
-- currently working at **Generis** as an **IT Coordinator**
-
-- interested in **machine learning**
-
-- currently learning **SQL** and **PHP**
-
 - all of my projects are available at https://eyang.dev/
 
 - fun fact **i have an obese corgi**
